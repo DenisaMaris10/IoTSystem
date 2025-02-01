@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Jan  9 08:23:54 2025
+# Process ID: 32696
+# Current directory: C:/Vitis_SSC/Proiect_ESP32/PMod_ESP32/PMod_ESP32.runs/synth_1
+# Command line: vivado.exe -log PMod_ESP32_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PMod_ESP32_wrapper.tcl
+# Log file: C:/Vitis_SSC/Proiect_ESP32/PMod_ESP32/PMod_ESP32.runs/synth_1/PMod_ESP32_wrapper.vds
+# Journal file: C:/Vitis_SSC/Proiect_ESP32/PMod_ESP32/PMod_ESP32.runs/synth_1\vivado.jou
+# Running On        :denisa-laptop
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :12th Gen Intel(R) Core(TM) i7-12700H
+# CPU Frequency     :2688 MHz
+# CPU Physical cores:14
+# CPU Logical cores :20
+# Host memory       :16858 MB
+# Swap memory       :16858 MB
+# Total Virtual     :33716 MB
+# Available Virtual :14653 MB
+#-----------------------------------------------------------
+source PMod_ESP32_wrapper.tcl -notrace

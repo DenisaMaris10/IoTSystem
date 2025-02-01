@@ -1,0 +1,3 @@
+C:/Vitis_SSC/Proiect_ESP32/Platforma_ESP32_cu_ADC_si_Servo/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Vitis_SSC/Proiect_ESP32/Platforma_ESP32_cu_ADC_si_Servo/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Vitis_SSC/Proiect_ESP32/Platforma_ESP32_cu_ADC_si_Servo/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,52 @@
+{
+  "name": "Platforma_ESP32_cu_ADC_si_Servo",
+  "type": "PLATFORM",
+  "configuration": {
+    "description": "",
+    "xsa": "C:\\Vitis_SSC\\Proiect_ESP32\\PMod_ESP32\\PMod_ESP32_wrapper_ADC_cu_Servo.xsa",
+    "xsaPathInPlatform": "Platforma_ESP32_cu_ADC_si_Servo\\hw\\PMod_ESP32_wrapper_ADC_cu_Servo.xsa",
+    "emulationXsa": "",
+    "emulationXsaPathInPlatform": "",
+    "isCustomFSBL": false,
+    "fsblPath": "",
+    "pmufwElf": "",
+    "flow": "EMBEDDED",
+    "processorsMap": {
+      "ps7_cortexa9_0": "ps7_cortexa9",
+      "ps7_cortexa9_1": "ps7_cortexa9"
+    },
+    "supportedFamily": "zynq",
+    "componentType": "PLATFORM",
+    "domains": [
+      {
+        "name": "zynq_fsbl",
+        "displayName": "zynq_fsbl",
+        "processor": "ps7_cortexa9_0",
+        "cpuType": "cortex-a9",
+        "cpuInstance": "ps7_cortexa9_0",
+        "os": "standalone",
+        "appTemplate": "zynq_fsbl",
+        "isBootDomain": true,
+        "qemuData": "C:\\Vitis_SSC\\Proiect_ESP32\\Platforma_ESP32_cu_ADC_si_Servo\\resources\\zynq_fsbl\\qemu",
+        "qemuArgsFile": "C:\\Vitis_SSC\\Proiect_ESP32\\Platforma_ESP32_cu_ADC_si_Servo\\resources\\zynq_fsbl\\qemu\\qemu_args.txt",
+        "pmcQemuArgsFile": "",
+        "isBSPGenReq": false
+      },
+      {
+        "name": "standalone_ps7_cortexa9_0",
+        "displayName": "standalone_ps7_cortexa9_0",
+        "processor": "ps7_cortexa9_0",
+        "cpuType": "cortex-a9",
+        "cpuInstance": "ps7_cortexa9_0",
+        "os": "standalone",
+        "appTemplate": "empty_application",
+        "isBootDomain": false,
+        "qemuData": "C:\\Vitis_SSC\\Proiect_ESP32\\Platforma_ESP32_cu_ADC_si_Servo\\resources\\standalone_ps7_cortexa9_0\\qemu",
+        "qemuArgsFile": "C:\\Vitis_SSC\\Proiect_ESP32\\Platforma_ESP32_cu_ADC_si_Servo\\resources\\standalone_ps7_cortexa9_0\\qemu\\qemu_args.txt",
+        "pmcQemuArgsFile": "",
+        "isBSPGenReq": false
+      }
+    ],
+    "emptyToolchainConfiguration": []
+  }
+}
