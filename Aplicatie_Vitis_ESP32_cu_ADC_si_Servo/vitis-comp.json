@@ -1,0 +1,15 @@
+{
+  "name": "Aplicatie_Vitis_ESP32_cu_ADC_si_Servo",
+  "type": "HOST",
+  "platform": "C:\\Vitis_SSC\\Proiect_ESP32\\Platforma_ESP32_cu_ADC_si_Servo\\export\\Platforma_ESP32_cu_ADC_si_Servo\\Platforma_ESP32_cu_ADC_si_Servo.xpfm",
+  "domain": "standalone_ps7_cortexa9_0",
+  "cpuInstance": "ps7_cortexa9_0",
+  "cpuType": "cortex-a9",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_ps7_cortexa9_0",
+  "applicationFlow": "EMBEDDED"
+}

@@ -1,0 +1,9 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2024.1/data/xilinx_vip/include" --include "../../../../PMod_ESP32.gen/sources_1/bd/PMod_ESP32/ipshared/ec67/hdl" --include "../../../../PMod_ESP32.gen/sources_1/bd/PMod_ESP32/ipshared/b28c/hdl" \
+"../../../../PMod_ESP32.gen/sources_1/bd/PMod_ESP32/ip/PMod_ESP32_processing_system7_0_0/sim/PMod_ESP32_processing_system7_0_0.v" \
+"../../../../PMod_ESP32.gen/sources_1/bd/PMod_ESP32/ip/PMod_ESP32_xbar_0/sim/PMod_ESP32_xbar_0.v" \
+"../../../../PMod_ESP32.gen/sources_1/bd/PMod_ESP32/ip/PMod_ESP32_auto_pc_0/sim/PMod_ESP32_auto_pc_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

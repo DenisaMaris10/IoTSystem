@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Dec  8 21:45:08 2024
+# Process ID: 38108
+# Current directory: C:/Vitis_SSC/Proiect_ESP32/PMod_ESP32
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1432 C:\Vitis_SSC\Proiect_ESP32\PMod_ESP32\PMod_ESP32.xpr
+# Log file: C:/Vitis_SSC/Proiect_ESP32/PMod_ESP32/vivado.log
+# Journal file: C:/Vitis_SSC/Proiect_ESP32/PMod_ESP32\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Dec  8 21:50:57 2024...
